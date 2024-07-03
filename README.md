@@ -16,7 +16,7 @@ def division(a, b):
     else:
         return "Error: No se puede dividir entre cero"
 
-# Solicitar al usuario que ingrese los números y la operación deseada
+ Solicitar al usuario que ingrese los números y la operación deseada
 num1 = float(input("Ingrese el primer número: "))
 num2 = float(input("Ingrese el segundo número: "))
 operacion = input("Ingrese la operación (+, -, *, /): ")
